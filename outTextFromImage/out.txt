@@ -1,0 +1,4 @@
+In this tutorial, we'll be showing you how to install Tesseract OCR for Windows. On a
+Maz, this is fairly straightforward, but on Windows it's a little more complicated
+because we need to download the .exe from UB Mannheim, then
+
